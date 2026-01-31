@@ -1,5 +1,9 @@
-## Hi there 👋
+# Ali 🪴 
+`he/him`
 
+I'm a full-stack developer and aspiring creator of cool stuff. Building things is my way of turning the skills I've learned at work and school into fun projects of my own - as well as exploring new technologies along the way.
+
+Right now, I'm focused on bringing applications to life from soup to nuts, and exploring how I can use AI to streamline that process - without slipping into the realm of "vibe coding." I'm also getting into homelabbing, with the goal of self-hosting my own projects on my personal server. 
 <!--
 **cyubit/cyubit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
